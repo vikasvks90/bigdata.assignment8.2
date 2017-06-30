@@ -1,0 +1,10 @@
+121,"Harris",male,22
+122,"Cumings",female,38
+123,"Laina",female,26
+124,"Futrelle",female,35
+125,"Henry",male,35
+126,"James",male,30
+127,"McCarthy",male,54
+128,"Palsson",male,20
+129,"Johnson",female,27
+130,"Nasser",female,14
